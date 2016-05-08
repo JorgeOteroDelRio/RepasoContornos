@@ -15,12 +15,9 @@ public class RepasoContornos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        boolean aaronListo = false;
-        if(aaronListo){
-            System.out.println("Aaron saca 10");
-        }else{
-            System.out.println("Aaron suspende");
-        }
+       int b=2;
+       int a =3;
+       System.out.println(a+b);
     }
     
 }
